@@ -4,64 +4,42 @@ El objetivo de este repositorio es ser un directorio de recursos útiles para ap
 
 ---
 
-## **📚 Categorías de Recursos**
-
-### **1. Programación General**
-- **Python:**
-  - [The Python Handbook](https://github.com/thevalleyofthepython/python-handbook): Introducción para principiantes y conceptos avanzados.
-  - [Awesome Python](https://github.com/vinta/awesome-python): Colección de librerías y frameworks útiles.
-- **JavaScript:**
-  - [JavaScript.info](https://github.com/javascript-tutorial/en.javascript.info): Tutorial interactivo para aprender JavaScript.
-  - [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code): Fragmentos de código que explican conceptos clave.
-- **C++:**
-  - [C++ Resources](https://github.com/fffaraz/awesome-cpp): Guías, librerías y herramientas esenciales para C++.
+## **📚 Índice**
+1. [Desarrollo Android](#1-desarrollo-android)
+2. [Web Development](#2-web-development)
+3. [Bases de Datos](#3-bases-de-datos)
 
 ---
 
-### **2. Desarrollo Web**
-- **Frontend:**
-  - [Frontend Mentor](https://github.com/frontendmentor/frontend-challenges): Desafíos prácticos para mejorar tus habilidades en diseño.
-  - [Learn CSS](https://web.dev/learn/css/): Tutoriales interactivos para dominar CSS.
-- **Backend:**
-  - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices): Mejores prácticas para Node.js.
-  - [PHP: The Right Way](https://github.com/codeguy/php-the-right-way): Una guía para programadores de PHP.
+## **1. Desarrollo Android**
+
+### **JAVA**
+- **[Enviar un correo](https://github.com/ibarajas248/enviarCorreoAndroid):** Configuración paso a paso para enviar correos electrónicos desde una aplicación Android utilizando intents.
+- **[Recycler_MySQL](https://github.com/ibarajas248/Recyclerview_server):** Cómo cargar un RecyclerView dinámicamente con datos desde un servidor MySQL.
+- **[Recycler_Personalizado](https://github.com/ibarajas248/Rwcyclerview_personalizado):** Crear un RecyclerView personalizado con diseño adaptable.
+- **[Subir imagen a Firebase](https://github.com/ibarajas248/subir_imagen_a_firebase):** Tutorial para configurar y subir imágenes al almacenamiento de Firebase.
+- **[Tomar foto y guardar](https://github.com/ibarajas248/tomar_foto_y_guardar):** Uso de la cámara para capturar y guardar imágenes en Android.
+- **[CRUD Firebase](https://github.com/ibarajas248/Crud_firebase):** Implementación de un CRUD básico usando Firebase como backend.
+- **[CRUD MySQL](https://github.com/ibarajas248/crud_MySQL_android):** Cómo implementar un CRUD completo conectado a una base de datos MySQL.
 
 ---
 
-### **3. Ciencia de Datos e Inteligencia Artificial**
-- **Introducción:**
-  - [Learn Data Science](https://github.com/rouseguy/intro-to-data-science): Introducción práctica a la ciencia de datos.
-  - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook): Ejemplos y tutoriales para análisis de datos.
-- **Machine Learning:**
-  - [TensorFlow Tutorials](https://github.com/tensorflow/docs): Guías oficiales de TensorFlow.
-  - [Scikit-learn Examples](https://github.com/scikit-learn/scikit-learn/tree/main/examples): Ejemplos prácticos para modelos ML.
+## **2. Web Development**
+- *(Próximamente...)*
 
 ---
 
-### **4. Diseño de Interfaces y Prototipos**
-- [Figma Free Resources](https://github.com/Figma-Learning/resources): Plantillas y tutoriales para Figma.
-- [Awesome UI/UX Design](https://github.com/gztchan/awesome-design): Recursos para aprender diseño de interfaces y experiencia de usuario.
+## **3. Bases de Datos**
+- *(Próximamente...)*
 
 ---
 
-### **5. Bases de Datos y DevOps**
-- [Awesome SQL](https://github.com/xiangang/Awesome-SQL): Recursos para aprender SQL desde básico hasta avanzado.
-- [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum): Tutorial para aprender Docker desde cero.
+## **🚀 Cómo usar este repositorio**
+1. Explora las categorías y selecciona el recurso que te interese.
+2. Haz clic en el enlace para visitar el repositorio específico.
+3. Sigue las instrucciones dentro del repositorio para implementar o aprender.
 
----
+## **🤝 Contribuciones**
+¿Tienes recursos que podrían ser útiles? ¡Haz un pull request o envía tus sugerencias en la sección de issues!
 
-### **6. Herramientas de Desarrollo**
-- [GitHub Learning Lab](https://github.com/github/training-kit): Cursos para aprender Git y GitHub.
-- [Learn Vim](https://github.com/iggredible/Learn-Vim): Curso completo para dominar Vim.
 
----
-
-## **🎯 Cómo Contribuir**
-1. Haz un fork del repositorio.
-2. Agrega un nuevo recurso en la categoría correspondiente.
-3. Envía un pull request con una breve descripción del recurso agregado.
-
----
-
-## **🚀 Propósito del Repositorio**
-Este directorio está diseñado para ser un punto de partida rápido y eficaz para cualquier persona que quiera mejorar sus habilidades. No se centra en proyectos completos, sino en recursos prácticos que puedes incorporar en tu aprendizaje o en tus propios proyectos.
