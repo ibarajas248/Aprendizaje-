@@ -14,6 +14,7 @@ El objetivo de este repositorio es ser un directorio de recursos útiles para ap
 - **[Tomar foto y guardar](https://github.com/ibarajas248/tomar_foto_y_guardar):** Uso de la cámara para capturar y guardar imágenes en Android.
 - **[CRUD Firebase](https://github.com/ibarajas248/Crud_firebase):** Implementación de un CRUD básico usando Firebase como backend.
 - **[CRUD MySQL](https://github.com/ibarajas248/crud_MySQL_android):** Cómo implementar un CRUD completo conectado a una base de datos MySQL.
+- **[PDF android](https://github.com/ibarajas248/crear-PDF-en-android):** Generar documentos PDF en Android.
 
 
 
